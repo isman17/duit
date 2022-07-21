@@ -1,5 +1,9 @@
 # duit
 
+Build with:
+- [Quasar](https://quasar.dev)
+- [Vue 3](https://vuejs.org)
+
 ## Project setup
 ```
 yarn install
